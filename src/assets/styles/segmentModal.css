@@ -1,0 +1,14 @@
+.modal-header {
+    background-color: #1c7f8c;
+    color: #ffffff;
+}
+
+.blue-box {
+    border-style: solid;
+    border-color: blue;
+    border-width: 3px;
+    margin-bottom: 24px;
+}
+.add-new-schema-link {
+    color: #2ec754;
+}
